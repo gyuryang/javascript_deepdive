@@ -1,9 +1,5 @@
 # 20장 strict mode
 
-스터디 날짜: 2022년 10월 6일
-완료 여부 : Done
-작성자: 익명
-
 ## strict mode
 
 ```tsx
